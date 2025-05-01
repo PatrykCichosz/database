@@ -1,0 +1,305 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "MMA API",
+    "description": "An API for Fighters and Fight Records using Supabase PostgreSQL",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Fighters": {
+      "get": {
+        "tags": [
+          "Fighters"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Fighter"
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Fighters"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Fighter"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Fighters/{id}": {
+      "get": {
+        "tags": [
+          "Fighters"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/Fighter"
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Fighters"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Fighter"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Fighters"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/FightRecords": {
+      "get": {
+        "tags": [
+          "FightRecords"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/FightRecord"
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "FightRecords"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/FightRecord"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/FightRecords/byfighter/{fighterId}": {
+      "get": {
+        "tags": [
+          "FightRecords"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "fighterId",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/FightRecord"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/FightRecords/{id}": {
+      "delete": {
+        "tags": [
+          "FightRecords"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "FightRecord": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "fighterId": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "opponentId": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "eventName": {
+          "type": "string"
+        },
+        "result": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "fighter": {
+          "$ref": "#/definitions/Fighter"
+        },
+        "opponent": {
+          "$ref": "#/definitions/Fighter"
+        }
+      },
+      "additionalProperties": false
+    },
+    "Fighter": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "weightClass": {
+          "type": "string"
+        },
+        "nationality": {
+          "type": "string"
+        },
+        "wins": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "losses": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "draws": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "fighterImage": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

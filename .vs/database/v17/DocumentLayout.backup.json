@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cichz\\Desktop\\database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\controllers\\fightrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\controllers\\fightrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\models\\fightrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\models\\fightrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\models\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\models\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\controllers\\fighterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\controllers\\fighterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\data\\mmadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\data\\mmadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\services\\fightrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\services\\fightrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\services\\firestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\services\\firestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\serviceaccountkey.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\serviceaccountkey.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\mmaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\mmaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\mmaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\mmaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\migrations\\20250414125621_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\migrations\\20250414125621_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\migrations\\20250414125243_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\migrations\\20250414125243_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:681529699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MmaApi.http",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\MmaApi.http",
+              "RelativeDocumentMoniker": "MmaApi\\MmaApi.http",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\MmaApi.http",
+              "RelativeToolTip": "MmaApi\\MmaApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-19T12:23:29.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250414125621_SecondCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Migrations\\20250414125621_SecondCreate.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Migrations\\20250414125621_SecondCreate.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Migrations\\20250414125621_SecondCreate.cs",
+              "RelativeToolTip": "MmaApi\\Migrations\\20250414125621_SecondCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:56:21.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250414125243_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Migrations\\20250414125243_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Migrations\\20250414125243_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Migrations\\20250414125243_InitialCreate.cs",
+              "RelativeToolTip": "MmaApi\\Migrations\\20250414125243_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:52:44.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MmaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\appsettings.json",
+              "RelativeToolTip": "MmaApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T12:17:57.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FightRecord.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Models\\FightRecord.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Models\\FightRecord.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Models\\FightRecord.cs",
+              "RelativeToolTip": "MmaApi\\Models\\FightRecord.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:16:53.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Models\\Fighter.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Models\\Fighter.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Models\\Fighter.cs",
+              "RelativeToolTip": "MmaApi\\Models\\Fighter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:16:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FightRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Controllers\\FightRecordsController.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Controllers\\FightRecordsController.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Controllers\\FightRecordsController.cs",
+              "RelativeToolTip": "MmaApi\\Controllers\\FightRecordsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:16:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MmaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Data\\MmaDbContext.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Data\\MmaDbContext.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Data\\MmaDbContext.cs",
+              "RelativeToolTip": "MmaApi\\Data\\MmaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:15:58.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MmaApi.csproj",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\MmaApi.csproj",
+              "RelativeDocumentMoniker": "MmaApi\\MmaApi.csproj",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\MmaApi.csproj",
+              "RelativeToolTip": "MmaApi\\MmaApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T12:15:26.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FightersController.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Controllers\\FightersController.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Controllers\\FightersController.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Controllers\\FightersController.cs",
+              "RelativeToolTip": "MmaApi\\Controllers\\FightersController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:14:17.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirestoreService.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Services\\FirestoreService.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Services\\FirestoreService.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Services\\FirestoreService.cs",
+              "RelativeToolTip": "MmaApi\\Services\\FirestoreService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:14:02.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "serviceAccountKey.json",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\serviceAccountKey.json",
+              "RelativeDocumentMoniker": "MmaApi\\serviceAccountKey.json",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\serviceAccountKey.json",
+              "RelativeToolTip": "MmaApi\\serviceAccountKey.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T12:08:06.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FightRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Services\\FightRecordService.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Services\\FightRecordService.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Services\\FightRecordService.cs",
+              "RelativeToolTip": "MmaApi\\Services\\FightRecordService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:07:49.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Program.cs",
+              "RelativeDocumentMoniker": "MmaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Program.cs",
+              "RelativeToolTip": "MmaApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:54:53.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
