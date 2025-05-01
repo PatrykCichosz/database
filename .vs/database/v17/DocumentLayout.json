@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\cichz\\Desktop\\database\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\mmaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\mmaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\controllers\\fightrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\controllers\\fightrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,14 +43,6 @@
       "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\serviceaccountkey.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\serviceaccountkey.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\mmaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\mmaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|c:\\users\\cichz\\desktop\\database\\mmaapi\\mmaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C7624588-BB5A-AA92-FA15-7494C7A91A1C}|MmaApi\\MmaApi.csproj|solutionrelative:mmaapi\\mmaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -66,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,19 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "MmaApi.http",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\MmaApi.http",
               "RelativeDocumentMoniker": "MmaApi\\MmaApi.http",
               "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\MmaApi.http",
               "RelativeToolTip": "MmaApi\\MmaApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-19T12:23:29.136Z"
+              "WhenOpened": "2025-04-19T12:23:29.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "20250414125621_SecondCreate.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Migrations\\20250414125621_SecondCreate.cs",
               "RelativeDocumentMoniker": "MmaApi\\Migrations\\20250414125621_SecondCreate.cs",
@@ -102,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "20250414125243_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Migrations\\20250414125243_InitialCreate.cs",
               "RelativeDocumentMoniker": "MmaApi\\Migrations\\20250414125243_InitialCreate.cs",
@@ -114,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\appsettings.json",
               "RelativeDocumentMoniker": "MmaApi\\appsettings.json",
@@ -126,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FightRecord.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Models\\FightRecord.cs",
               "RelativeDocumentMoniker": "MmaApi\\Models\\FightRecord.cs",
@@ -138,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Fighter.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Models\\Fighter.cs",
               "RelativeDocumentMoniker": "MmaApi\\Models\\Fighter.cs",
@@ -150,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FightRecordsController.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Controllers\\FightRecordsController.cs",
               "RelativeDocumentMoniker": "MmaApi\\Controllers\\FightRecordsController.cs",
@@ -163,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MmaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Data\\MmaDbContext.cs",
               "RelativeDocumentMoniker": "MmaApi\\Data\\MmaDbContext.cs",
@@ -175,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "MmaApi.csproj",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\MmaApi.csproj",
               "RelativeDocumentMoniker": "MmaApi\\MmaApi.csproj",
@@ -187,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FightersController.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Controllers\\FightersController.cs",
               "RelativeDocumentMoniker": "MmaApi\\Controllers\\FightersController.cs",
@@ -195,12 +192,11 @@
               "RelativeToolTip": "MmaApi\\Controllers\\FightersController.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAcwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T12:14:17.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T12:14:17.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FirestoreService.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Services\\FirestoreService.cs",
               "RelativeDocumentMoniker": "MmaApi\\Services\\FirestoreService.cs",
@@ -212,19 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "serviceAccountKey.json",
-              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\serviceAccountKey.json",
-              "RelativeDocumentMoniker": "MmaApi\\serviceAccountKey.json",
-              "ToolTip": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\serviceAccountKey.json",
-              "RelativeToolTip": "MmaApi\\serviceAccountKey.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-14T12:08:06.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FightRecordService.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Services\\FightRecordService.cs",
               "RelativeDocumentMoniker": "MmaApi\\Services\\FightRecordService.cs",
@@ -236,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\database\\MmaApi\\Program.cs",
               "RelativeDocumentMoniker": "MmaApi\\Program.cs",
