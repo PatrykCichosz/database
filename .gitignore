@@ -1,0 +1,14 @@
+.vs/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+
+.env
+
+# Logs and temp
+*.log
